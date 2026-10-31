@@ -2,7 +2,7 @@
 
 A responsive photo gallery web app that fetches images from the Picsum Photos API, lets you search by author name, and mark photos as favourites (persisted in localStorage).
 
-**Live Demo:** [https://nimble-walnut-xtsnuar.tmp.now](https://nimble-walnut-xtsnuar.tmp.now)  
+**Live Demo:** [https://celebrare-gallery-app.vercel.app](https://celebrare-gallery-app.vercel.app)  
 **GitHub Repository:** [https://github.com/HAMEED-IBRAHIM/Celebrare](https://github.com/HAMEED-IBRAHIM/Celebrare)
 
 ## Tech Stack
