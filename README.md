@@ -2,6 +2,9 @@
 
 A responsive photo gallery web app that fetches images from the Picsum Photos API, lets you search by author name, and mark photos as favourites (persisted in localStorage).
 
+**Live Demo:** [https://fast-nickel-pp0l2h6.tmp.now](https://fast-nickel-pp0l2h6.tmp.now)  
+**GitHub Repository:** [https://github.com/HAMEED-IBRAHIM/Celebrare](https://github.com/HAMEED-IBRAHIM/Celebrare)
+
 ## Tech Stack
 
 - **React 19** — functional components + hooks
