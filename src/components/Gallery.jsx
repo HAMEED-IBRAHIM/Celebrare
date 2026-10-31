@@ -100,7 +100,7 @@ function Gallery() {
                 </svg>
               </div>
               <div>
-                <h1 className="text-lg sm:text-xl font-bold text-white">Photo Gallery</h1>
+                <h1 className="text-lg sm:text-xl font-bold text-white">Celebrare Gallery</h1>
                 <p className="text-[11px] text-gray-500">Powered by Picsum Photos</p>
               </div>
             </div>

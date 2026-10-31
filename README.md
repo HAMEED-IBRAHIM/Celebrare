@@ -1,4 +1,4 @@
-# Photo Gallery — React + Vite + Tailwind CSS
+# Celebrare Gallery — React + Vite + Tailwind CSS
 
 A responsive photo gallery web app that fetches images from the Picsum Photos API, lets you search by author name, and mark photos as favourites (persisted in localStorage).
 
